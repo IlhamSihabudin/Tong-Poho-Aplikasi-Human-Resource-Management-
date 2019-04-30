@@ -1,0 +1,16 @@
+{
+    "name": "Manager",
+    "alias": "manager",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Manager\\Providers\\ManagerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

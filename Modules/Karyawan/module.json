@@ -1,0 +1,16 @@
+{
+    "name": "Karyawan",
+    "alias": "karyawan",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Karyawan\\Providers\\KaryawanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
